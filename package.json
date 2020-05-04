@@ -1,0 +1,27 @@
+{
+  "name": "project2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "-": "0.0.1",
+    "body": "5.1.0",
+    "body-parser": "1.19.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "express": "4.17.1",
+    "express-flash": "0.0.2",
+    "express-handlebars": "4.0.4",
+    "express-layout": "0.1.0",
+    "express-session": "^1.17.1",
+    "firebase-tools": "^8.2.0",
+    "nodemailer": "6.4.6",
+    "parser": "0.1.4"
+  }
+}
