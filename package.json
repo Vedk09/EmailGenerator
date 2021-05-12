@@ -21,7 +21,7 @@
     "express-layout": "0.1.0",
     "express-session": "^1.17.1",
     "firebase-tools": "^8.2.0",
-    "nodemailer": "6.4.6",
+    "nodemailer": "6.4.16",
     "parser": "0.1.4"
   }
 }
